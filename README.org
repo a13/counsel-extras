@@ -1,0 +1,12 @@
+* Installation and usage
+
+** Using quelpa-use-package:
+  #+BEGIN_SRC emacs-lisp
+(use-package counsel-extras
+  :ensure nil
+  :quelpa
+  (counsel-extras :repo "a13/counsel-extras" :fetcher github :version original)
+  :bind
+  (("C-s" . counsel-grep-or-isearch-or-swiper)
+   ("s-p" . counsel-xmms2)))
+  #+END_SRC

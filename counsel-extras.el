@@ -1,6 +1,6 @@
 ;;; counsel-extras.el --- More friendly display transformer for ivy.
 
-;; Package-Requires: ((emacs "24.4") (counsel-0.9.0))
+;; Package-Requires: ((emacs "24.4") (counsel "0.9.0"))
 ;; Keywords: counsel matching
 ;; Homepage: https://github.com/a13/counsel-extras
 

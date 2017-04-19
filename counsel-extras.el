@@ -1,4 +1,4 @@
-;;; counsel-extras.el --- More friendly display transformer for ivy. -*- lexical-binding: t; -*-
+;;; counsel-extras.el --- Custom interactive functions for counsel. -*- lexical-binding: t; -*-
 
 ;; Package-Requires: ((emacs "24.4") (counsel "0.9.0"))
 ;; Keywords: counsel matching
@@ -68,4 +68,4 @@
 
 (provide 'counsel-extras)
 
-;;; counsel-extras.el ends here.
+;;; counsel-extras.el ends here
